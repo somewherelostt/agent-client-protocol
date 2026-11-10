@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [1.18.0](https://github.com/agentclientprotocol/agent-client-protocol/compare/v1.17.0...v1.18.0) - 2026-11-10
+
+### Added
+
+- *(unstable)* accept initial config options on session/fork and clarify notifications ([#2794](https://github.com/agentclientprotocol/agent-client-protocol/pull/2794))
+
 ## [1.17.0](https://github.com/agentclientprotocol/agent-client-protocol/compare/v1.16.0...v1.17.0) - 2026-11-10
 
 ### Added
